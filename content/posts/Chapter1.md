@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1"
 date: 2022-12-08T12:26:28-08:00
-draft: true
+draft: false
 ---
 
 # Chapter 1: How to Avoid Anger in Gaming
@@ -28,7 +28,5 @@ draft: true
 
 11 He will help thee to maintain thy composure, and to enjoy the game in peace. Amen.
 
-The Book of Overwatch
-Chapter 1: How to Avoid Anger in Gaming
 
 
