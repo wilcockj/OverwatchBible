@@ -1,0 +1,8 @@
+{{ define "main" }}
+  {{ range $num := (seq 12) }}
+  <a href="/posts/chapter{{.}}">Chapter{{.}}</a>
+  <br>
+  {{ end }}
+
+  {{ partial "pagination" . }}
+{{ end }}
