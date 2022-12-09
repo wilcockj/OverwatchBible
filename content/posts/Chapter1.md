@@ -29,4 +29,6 @@ draft: false
 11 He will help thee to maintain thy composure, and to enjoy the game in peace. Amen.
 
 
+For the hard of hearing and gamers everywhere
 
+{{< audio src="/audio/winston-1nonum.wav" class="something" >}}
